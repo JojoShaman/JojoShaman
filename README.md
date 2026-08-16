@@ -9,7 +9,7 @@
 
 ## About Me
 
-23 y/o, currently studying at 42. Right now I'm mostly working with C and learning Python while building strong software engineering fundamentals through hands-on projects and problem solving. I enjoy understanding how systems work, designing clean and reliable solutions, and continuously improving the way I build things.
+24 y/o, currently studying at 42. Right now I'm mostly working with C and learning Python while building strong software engineering fundamentals through hands-on projects and problem solving. I enjoy understanding how systems work, designing clean and reliable solutions, and continuously improving the way I build things.
 
 I'm especially interested in real-world projects, innovation, well-crafted code, clean architecture, and the balance between performance, maintainability and good design. Still early in the journey, but learning fast and building every day.
 
